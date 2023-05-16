@@ -1,6 +1,6 @@
 # Hey! I am World 👋
 
-I am a 19-year-old developer with a passion for Design and all things AI. I am eager to learn and become the best version of myself.
+I am a 20-year-old developer with a passion for Design and all things AI. I am eager to learn and become the best version of myself.
 
 ## Experience
 

@@ -4,7 +4,7 @@ I'm a 20-year-old freelance full-stack JavaScript developer with a passion for w
 
 ## 🛠️ Current
 
-I'm presently focusing on my freelance projects, where I create dynamic and user-friendly web applications. If you have a project in mind, feel free to reach out, and we can discuss how I can help bring your ideas to life.
+I'm currently focusing on my freelance projects, where I create dynamic and user-friendly web applications. If you have a project in mind, feel free to reach out, and we can discuss how I can help bring your ideas to life.
 
 ## 💡 Experience
 
